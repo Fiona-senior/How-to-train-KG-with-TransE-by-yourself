@@ -1,1 +1,20 @@
-
+is cutting piece with	0
+descaled	1
+is taking stick with	2
+putting komodo into	3
+is blowing on	4
+sliding down	5
+involving	6
+is chopping garlic with	7
+cuts wood with	8
+topples down on	9
+are demolishing	10
+playing under	11
+keep ball in	12
+is acting out	13
+is falling down from	14
+throws away	15
+is carring	16
+jumping out at	17
+applying somekind of lipstick on	18
+left	19
